@@ -86,13 +86,13 @@ h1 span {
 }
 
 /* -------------------- LANDING PAGE -------------------- */
-.landing {
+.index {
   text-align: center;
   margin: 60px auto;
   max-width: 600px;
 }
 
-.landing img {
+.index img {
   width: 250px;
   border-radius: 10px;
   margin-top: 20px;
